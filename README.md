@@ -37,4 +37,3 @@ Uma cooperativa rural deseja monitorar plantações usando drones que realizam s
 
 ---
 
-## 📂 Estrutura Sugerida do Projeto  
