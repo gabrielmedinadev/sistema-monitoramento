@@ -38,3 +38,11 @@ Uma cooperativa rural deseja monitorar plantações usando drones que realizam s
 
 ---
 
+## ℹ Implementação
+- ETAPA #2: Diagrama de Classes inicial
+- ETAPA #3: Diagrama de Sequência inicial
+- ETAPA #4: Integração de modelos (Classes + Banco de Dados)
+
+---
+
+
