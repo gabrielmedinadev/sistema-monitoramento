@@ -32,7 +32,6 @@ Uma cooperativa rural deseja monitorar plantações usando drones que realizam s
 ---
 
 ## 🛠️ Tecnologias Utilizadas  
-- Backend: Java 
 - Banco de dados: SQLite
 - Diagramas: Draw.io
 
