@@ -24,16 +24,6 @@ Além disso, foram adicionadas restrições de integridade, como:
 
 ---
 
-## 📌 Como rodar o script no SQLite
-
-1. Abra o **DB Browser for SQLite**.  
-2. Crie um novo banco de dados `projeto_drones.db`.  
-3. Vá em **Execute SQL**, cole o conteúdo de [`projeto_drones.sql`](./projeto_drones.sql) e clique em ▶ **Executar SQL**.  
-4. As tabelas aparecerão em **Database Structure**.  
-5. Use a aba **Browse Data** para visualizar os registros de exemplo.
-
----
-
 ## 📸 Evidências (Prints)
 
 - **Estrutura do Banco**  
