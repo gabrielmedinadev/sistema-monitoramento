@@ -1,6 +1,6 @@
 # 🗂️ Fontes dos Diagramas (Draw.io)
 
-> Este diretório contém o arquivo **diagramas.drawio** com **duas páginas**.
+> Este diretório contém o arquivo [`diagramas.drawio`](./diagramas.drawio) com **duas páginas**.
 
 ---
 
