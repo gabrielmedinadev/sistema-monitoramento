@@ -6,7 +6,7 @@
 
 ## 📄 Páginas do arquivo
 
-1. **📘 Classes** — Diagrama de **Classes (UML)** do sistema.
-2. **🕑 Sequência** — Diagrama de **Sequência (UML)** do caso de uso *Agendar Missão*.
+1. **📘 Classes** -> Diagrama de **Classes (UML)** do sistema.
+2. **🕑 Sequência** -> Diagrama de **Sequência (UML)** do caso de uso *Agendar Missão*.
 
 ---
