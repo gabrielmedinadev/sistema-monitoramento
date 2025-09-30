@@ -7,12 +7,6 @@
 ## 📄 Páginas do arquivo
 
 1. **📘 Classes** — Diagrama de **Classes (UML)** do sistema.
-2. **📐 Sequência** — Diagrama de **Sequência (UML)** do caso de uso *Agendar Missão*.
-
----
-
-## 🧭 Como usar
-- Abra o arquivo no **diagrams.net (draw.io)**.
-- Use as **abas no rodapé** para alternar entre **Classes** e **Sequência**.
+2. **🕑 Sequência** — Diagrama de **Sequência (UML)** do caso de uso *Agendar Missão*.
 
 ---
