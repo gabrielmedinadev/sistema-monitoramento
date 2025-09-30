@@ -20,9 +20,3 @@ Nesta etapa foi criado o **diagrama de sequência UML** referente ao caso de uso
 6. **Sistema → Administrador**: retorna confirmação do agendamento.
 
 ---
-
-## 📌 Observações
-
-- Foram usadas **setas sólidas** para chamadas síncronas.  
-- Foram usadas **setas tracejadas** para retornos.  
-- É possível incluir um fragmento `alt` para representar cenários de erro (bateria insuficiente, sensores inoperantes ou conflito de missão).
