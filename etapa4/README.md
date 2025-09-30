@@ -37,19 +37,17 @@ Além disso, foram adicionadas restrições de integridade, como:
 ## 📸 Evidências (Prints)
 
 - **Estrutura do Banco**  
-  ![Database Structure](./print_database.png)
+  ![Database Structure](./print_tabelas.jpg)
 
 - **Usuários cadastrados**  
-  ![Usuários](./print_usuarios.png)
+  ![Usuários](./print_usuarios.jpg)
 
 - **Drones cadastrados**  
-  ![Drones](./print_drones.png)
+  ![Drones](./print_drones.jpg)
 
 - **Missões registradas**  
-  ![Missões](./print_missoes.png)
+  ![Missões](./print_missoes.jpg)
 
-- **Consulta JOIN (Missões com Área, Drone e Criador)**  
-  ![Relatório](./print_join.png)
 
 ---
 
