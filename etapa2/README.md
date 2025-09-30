@@ -6,7 +6,7 @@ Nesta etapa foi elaborado o **diagrama de classes UML** representando os princip
 
 ## 📌 Diagrama de Classes
 
-![Diagrama de Classes](./diagrama_classes.png)
+![Diagrama de Classes](./print_diagrama_classes.jpg)
 
 ---
 
